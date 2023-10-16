@@ -4,8 +4,18 @@ There are two version of it
 
 - The first version (PWM_DrawerVirtual) for simulation creating for LCD 4*20
 
-<iframe src="https://drive.google.com/file/d/1w0L-eqBVp1BZicuzHx5PdIPSUZtX__In/view?usp=sharing/preview" width="720" height="512"></iframe>
+<!DOCTYPE html>
+<html>
+<body>
+  
+  <iframe src="https://drive.google.com/file/d/1w0L-eqBVp1BZicuzHx5PdIPSUZtX__In/view?usp=sharing/preview" ></iframe>
+  
+  <!--aloow full screen add tag -->
+  
+<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
 
+</body>
+</html>
 
 - The second version (PWM_Drawer) for hardware creating for LCD 2*16
 
